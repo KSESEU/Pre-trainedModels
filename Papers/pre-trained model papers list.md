@@ -2,8 +2,6 @@
 
 #### 基础
 
-#### 基础类
-
 1. BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding(https://aclanthology.org/N19-1423/)
 2. BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding(https://nlp.stanford.edu/seminar/details/jdevlin.pdf)
 
