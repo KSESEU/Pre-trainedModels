@@ -4,7 +4,7 @@
 
 1. BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding(https://aclanthology.org/N19-1423.pdf)
 2. BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding(https://nlp.stanford.edu/seminar/details/jdevlin.pdf)
-3. 一文了解预训练语言模型(https://mp.weixin.qq.com/s/cFk1h1HCE5TqiLZ7UYF15A) **推荐**
+3. 一文了解预训练语言模型(https://mp.weixin.qq.com/s/cFk1h1HCE5TqiLZ7UYF15A) 
 
 
 ### Pre-trained Model-related Papers
