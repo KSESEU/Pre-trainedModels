@@ -2,8 +2,9 @@
 
 #### 基础
 
-1. BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding(https://aclanthology.org/N19-1423/)
+1. BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding(https://aclanthology.org/N19-1423.pdf)
 2. BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding(https://nlp.stanford.edu/seminar/details/jdevlin.pdf)
+3. 一文了解预训练语言模型(https://mp.weixin.qq.com/s/cFk1h1HCE5TqiLZ7UYF15A) **推荐**
 
 
 ### Pre-trained Model-related Papers
@@ -54,7 +55,7 @@
 
 3. BERT for Keyphrase Extraction (Pytorch)（https://github.com/thunlp/BERT-KPE）
 
-4. 一文了解预训练语言模型（https://mp.weixin.qq.com/s/cFk1h1HCE5TqiLZ7UYF15A）**推荐**
+4. 一文了解预训练语言模型(https://mp.weixin.qq.com/s/cFk1h1HCE5TqiLZ7UYF15A) **推荐**
 
 5. 预训练模型最新综述：过去、现在和未来(https://mp.weixin.qq.com/s/F4xUMY5nSb1ObpHtyAkzWg)
 
@@ -95,4 +96,5 @@
 6. KDD2021| 大规模异质图上的预训练框架(https://mp.weixin.qq.com/s/SdUxo00cpb-u0arkaQtqVA)
 7. HuggingFace BERT源码详解：基本模型组件实现(https://mp.weixin.qq.com/s/I4KSerhkFJdnIIpaZuf08A)
 8. Transformer统治的时代，LSTM模型并没有被代替，LSTM比Tranformer优势在哪里？(https://www.zhihu.com/question/439243827)
+9. 四两拨千斤！AI大牛周明率澜舟团队刷新CLUE新纪录，轻量化模型孟子一鸣惊人(https://mp.weixin.qq.com/s/b9HL6kWTCnQ17JrRFYke3Q)
 
